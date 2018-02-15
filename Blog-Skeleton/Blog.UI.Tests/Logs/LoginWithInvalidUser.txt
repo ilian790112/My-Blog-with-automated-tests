@@ -1,0 +1,1 @@
+Blog.UI.Tests.LoginTests.LoginWithInvalidUser        C:\TeamCity\buildAgent\work\4fec710207f43e93\Blog-Skeleton\Blog.UI.Tests\bin\Debug            0

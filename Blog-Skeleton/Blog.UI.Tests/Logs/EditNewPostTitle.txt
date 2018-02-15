@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Blog.UI.Tests.EditAndDeletePostTest.EditNewPostTitle        C:\TeamCity\buildAgent\work\4fec710207f43e93\Blog-Skeleton\Blog.UI.Tests\bin\Debug            0
+=======
+Blog.UI.Tests.EditAndDeletePostTest.EditNewPostTitle        D:\Programming C#\SoftUni-QA-Blog\Blog-Skeleton\Blog.UI.Tests\bin\Debug            0
+>>>>>>> origin/master
